@@ -16,3 +16,5 @@ explain them.
 5. ip_address_router_packet.html
 Des: Explained details about IP address, router, packet and how the intereact in a internet zone.
 
+6. w3c_html_css.html
+Des: Descussed about w3c and how it works with web pages. Also explained about html, css. Why to use html, css.

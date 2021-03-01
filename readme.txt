@@ -1,4 +1,6 @@
 # url list and description
+Website URL: https://rs933.github.io/how_internet_works/index.html
+Github URL: https://github.com/rs933/how_internet_works
 
 1. index.html
 Des: Described overview of the whole website.

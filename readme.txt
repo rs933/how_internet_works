@@ -13,3 +13,6 @@ Des: Here described details about the process how internet works. Also added few
 Des: In this page, tried to demonstrate http and https. And showed the main difference between http and https. Added diagram to
 explain them.
 
+5. ip_address_router_packet.html
+Des: Explained details about IP address, router, packet and how the intereact in a internet zone.
+
